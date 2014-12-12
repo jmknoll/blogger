@@ -1,1 +1,0 @@
-This was one of the first complete apps I built with rails. There isn't much here. For a better and more updated version, see blogger V2
